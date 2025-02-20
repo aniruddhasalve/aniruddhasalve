@@ -15,9 +15,17 @@ I also developed **[Dimensia](https://pypi.org/project/dimensia/)**, a Python li
 - **Top 10 in TechGig Data Science Challenge** – Won 1st place in the challenge.  
 - **Published Research Papers** – Contributions in **arXiv & IJSRD** on AI-driven cybersecurity and Retrieval-Augmented Generation (RAG).  
 
+## 📜 Published Papers  
+### 🔹 A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data  
+**Abstract**: This paper presents a multi-agent RAG system to improve **Large Language Models (LLMs)** by dynamically integrating external **relational, NoSQL, and document-based data sources** for enhanced accuracy and efficiency.  
+📖 **[Read on arXiv](https://arxiv.org/abs/2412.05838)**  
+
+### 🔹 Honeypot Analysis Using Big Data Technologies  
+**Abstract**: This paper explores how honeypots can be enhanced using **Big Data** and **Machine Learning** techniques for **cybersecurity threat detection**. It proposes a predictive model using **ARIMA, SARIMAX, Hadoop, Spark, and ELK Stack** to analyze and respond to attacks efficiently.  
+📖 **[Read Full Paper](https://www.ijsrd.com/articles/IJSRDV11I20035.pdf)**  
+
 ## 🎓 Education  
 - **Bachelor of Engineering (B.E.) in Computer Science** – Pune University *(2019 - 2023)*  
-- **Avishkar 2022 Runner-up** – Institute-level research project competition.  
 
 ## 💼 Experience  
 - **Software Engineer** @ iASYS Technology Solutions Pvt Ltd *(July 2023 - Present)*  
@@ -30,11 +38,13 @@ I also developed **[Dimensia](https://pypi.org/project/dimensia/)**, a Python li
 
 ## 📊 GitHub Stats  
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruddhasalve&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniruddhasalve&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasalve&layout=compact&theme=tokyonight)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-salve-645854196)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aniruddhasalve.me)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salveaniruddha180@gmail.com)  
+[![arXiv Profile](https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.05838)  
 
 ✨ *Let's build something amazing together!* 🚀  
