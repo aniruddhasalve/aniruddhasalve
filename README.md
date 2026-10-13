@@ -6,68 +6,89 @@
 
 I am an **AI Lead** with **3+ years of strong experience in full-stack engineering**, building mostly **SaaS-based applications** and AI-powered products.
 
-My work spans **Artificial Intelligence, Natural Language Processing, Machine Learning, backend systems, APIs, cloud-ready architectures, and modern web applications**. I enjoy turning complex ideas into reliable, scalable, and useful developer and business products.
+I work across **AI engineering, Natural Language Processing, Machine Learning, LLM applications, RAG systems, agent orchestration, backend architecture, and modern web development**. I enjoy taking products from architecture and MVP development through deployment, CI/CD, integrations, and production operations.
 
-I am especially interested in:
+My main areas of interest include:
 
 - AI-powered SaaS products
-- Retrieval-Augmented Generation (RAG)
 - Large Language Model applications
-- Multi-tenant architectures
+- Retrieval-Augmented Generation (RAG)
+- Multi-agent and agentic workflows
 - Django, FastAPI, and Python backend systems
-- Full-stack product development
-- Developer tools and automation
-- Production-ready APIs and Docker-based deployments
+- React and Next.js applications
+- Multi-tenant architectures and production APIs
+- Vector retrieval and semantic search
+- Docker, cloud deployments, and CI/CD
+- Developer tools and workflow automation
 
-I was honored with the **Maharashtra State Engineering Design Award (2024)** for my research on **"Intrusion Detection System with Honeypot Using Big Data and Generative AI Technology."**
+## 🧩 Selected Work
 
-I also developed **[Dimensia](https://pypi.org/project/dimensia/)**, a Python library for in-memory vector database management, and have published research on **Retrieval-Augmented Generation (RAG) and Cybersecurity**.
+### MeetMorph
 
-### 🏆 Achievements
+[MeetMorph](https://www.meetmorph.com/) turns meeting transcripts from Meet, Zoom, or uploaded files into structured product specifications and working prototypes that teams can refine and share.
 
-- **Maharashtra State Engineering Design Award (2024)** – Recognized by ISTE for innovation in cybersecurity and AI.
-- **Developed [Dimensia](https://pypi.org/project/dimensia/)** – A Python library for managing document embeddings and similarity-based searches.
-- **Top 10 in TechGig Data Science Challenge** – Won 1st place in the challenge.
-- **Published Research Papers** – Contributions in **arXiv and IJSRD** on AI-driven cybersecurity and Retrieval-Augmented Generation.
+### Dimensia
 
-## 📜 Published Papers
-
-### 🔹 A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data
-
-**Abstract:** This paper presents a multi-agent RAG system to improve **Large Language Models (LLMs)** by dynamically integrating external **relational, NoSQL, and document-based data sources** for enhanced accuracy and efficiency.
-📖 **[Read on arXiv](https://arxiv.org/abs/2412.05838)**
-
-### 🔹 Honeypot Analysis Using Big Data Technologies
-
-**Abstract:** This paper explores how honeypots can be enhanced using **Big Data** and **Machine Learning** techniques for **cybersecurity threat detection**. It proposes a predictive model using **ARIMA, SARIMAX, Hadoop, Spark, and ELK Stack** to analyze and respond to attacks efficiently.
-📖 **[Read Full Paper](https://www.ijsrd.com/articles/IJSRDV11I20035.pdf)**
-
-## 🎓 Education
-
-- **Bachelor of Engineering (B.E.) in Computer Science** – Pune University *(2019–2023)*
+[Dimensia](https://pypi.org/project/dimensia/) is a Python library for optimized vector retrieval in LLM and RAG pipelines, with similarity search and embedding-friendly APIs for working with large document collections.
 
 ## 💼 Professional Focus
 
-- **AI Lead** – Leading AI product development, architecture, and engineering initiatives.
-- **3+ years of full-stack development experience** – Building scalable web applications and SaaS products.
-- **SaaS engineering** – Designing APIs, multi-tenant systems, integrations, dashboards, and production workflows.
-- **AI engineering** – Developing NLP, RAG, LLM, vector search, and intelligent automation solutions.
+- **AI leadership** – Driving AI product architecture, technical direction, and end-to-end delivery.
+- **Full-stack SaaS engineering** – Building scalable applications with Python, Django, FastAPI, React, Next.js, PostgreSQL, Supabase, and cloud services.
+- **AI applications** – Developing LLM apps, RAG pipelines, AI agents, multi-agent systems, web scraping workflows, and intelligent automation.
+- **Production engineering** – Working with Docker, AWS, GCP, CI/CD, observability, third-party integrations, and reliable deployment workflows.
+- **Product development** – Turning early ideas into MVPs, production systems, developer tools, and usable customer-facing products.
+
+## 🧰 Open Source and Developer Tools
+
+- **[Dimensia](https://pypi.org/project/dimensia/)** – Vector retrieval library for LLM and RAG workflows.
+- **[Code Snippet Manager](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.code-snippet-manager)** – Create, insert, and manage code snippets from the VS Code Command Palette.
+- **[MetaHeader](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.metaheader)** – Automatically insert standardized file headers across multiple programming languages.
+- **[QuizWiz](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.quizwiz)** – Practice IT topics through self-quizzes inside VS Code.
+
+## 📚 Research and Publications
+
+### A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data Sources
+
+A preprint on a collaborative multi-agent RAG framework that routes queries across heterogeneous data sources by separating retrieval, reasoning, and generation across specialized agents.
+
+- [Read on arXiv](https://arxiv.org/abs/2412.05838)
+- [Google Scholar](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0005-0229-9805)
+
+### Honeypot Analysis Using Big Data Technologies
+
+A study on large-scale honeypot log analysis using Hadoop, ELK, Spark, and forecasting techniques for intrusion-pattern analysis, alerting, and security monitoring workflows.
+
+- [Read the publication](https://www.ijsrd.com/articles/IJSRDV11I20035.pdf)
+
+## 🏆 Awards and Achievements
+
+- **Maharashtra State Engineering Design Award (2023)** – Second prize at the ISTE Students’ National Annual Convention for research on honeypots, big data, generative AI, and intrusion detection.
+- **Avishkar Research Competition (2022)** – Institute-level runner-up.
+- **1st place in the TechGig Data Science Challenge.**
+- **Top 10 in HackerEarth’s “A Perfect Fit” Machine Learning Challenge.**
+
+## 🎓 Education
+
+- **Bachelor of Engineering in Computer Engineering** – Savitribai Phule Pune University, SVPM’s College of Engineering, Baramati *(2019–2023)*
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws)
+![Tech Stack](https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,nextjs,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws,gcp)
 
 ## 📊 GitHub Stats
 
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruddhasalve&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniruddhasalve&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasalve&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasalve&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-salve-645854196)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aniruddhasalve.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salveaniruddha180@gmail.com)
-[![arXiv Profile](https://img.shields.io/badge/arXiv-CC0000?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2412.05838)
+- **Website:** [aniruddhasalve.me](https://aniruddhasalve.me/)
+- **LinkedIn:** [linkedin.com/in/aniruddha-salve-645854196](https://www.linkedin.com/in/aniruddha-salve-645854196/)
+- **GitHub:** [github.com/aniruddhasalve](https://github.com/aniruddhasalve)
+- **Google Scholar:** [View profile](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en)
+- **Email:** [salveaniruddha180@gmail.com](mailto:salveaniruddha180@gmail.com)
 
-✨ *Let's build something amazing together!* 🚀
+✨ *Let's build something useful with AI, full-stack engineering, and thoughtful product development.*
