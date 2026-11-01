@@ -35,10 +35,13 @@ I build production-ready software across AI engineering and full-stack developme
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,nextjs,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws,gcp" alt="Python, Django, Flask, FastAPI, C++, Java, React, Next.js, JavaScript, Angular, TensorFlow, PyTorch, MongoDB, MySQL, PostgreSQL, Redis, Neo4j, Docker, Linux, AWS, and Google Cloud icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,nextjs,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws,azure,gcp" alt="Python, Django, Flask, FastAPI, C++, Java, React, Next.js, JavaScript, Angular, TensorFlow, PyTorch, MongoDB, MySQL, PostgreSQL, Redis, Neo4j, Docker, Linux, AWS, Azure, and Google Cloud icons" />
+  <br />
+  <img src="https://cdn.simpleicons.org/apachehadoop" alt="Apache Hadoop" height="48" />
+  <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" height="48" />
 </p>
 
-**AI & ML:** LLMs, RAG, LangChain, LlamaIndex, agents, NLP  ·  **Backend:** Django, FastAPI, Flask, REST APIs  ·  **Frontend:** React, Next.js, Angular  ·  **Data:** PostgreSQL, MySQL, MongoDB, Redis, Neo4j  ·  **Cloud:** Docker, AWS, GCP, Linux, CI/CD
+**AI & ML:** LLMs, RAG, LangChain, LlamaIndex, agents, NLP, TensorFlow, PyTorch  ·  **Big data:** Hadoop, Apache Spark, PySpark  ·  **Backend:** Django, FastAPI, Flask, REST APIs  ·  **Frontend:** React, Next.js, Angular  ·  **Data:** PostgreSQL, MySQL, MongoDB, Redis, Neo4j  ·  **Cloud & DevOps:** AWS, Azure, GCP, Docker, Linux, CI/CD
 
 ## GitHub stats
 
