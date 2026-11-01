@@ -45,23 +45,28 @@ I build production-ready software across AI engineering and full-stack developme
   <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="36" height="36" />
 </p>
 
-**50+ skills from my résumé**
-
-**Programming & foundations:** Python, Java, JavaScript, TypeScript, SQL, JSON, object-oriented programming, data structures and algorithms, REST APIs.
-
-**Backend & web:** Django, Flask, FastAPI, Celery, Laravel, OAuth 2.0, JWT, rate limiting, WebSockets, React, Next.js, React Native, Chrome Extensions (Manifest V3), Tailwind CSS.
-
-**AI, ML & data science:** Machine learning, deep learning, NLP, computer vision, generative AI, prompt engineering, LLMs, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn.
-
-**Agentic AI & model platforms:** LangChain, LangGraph, LlamaIndex, LangSmith, Mem0, MCP servers, reasoning agents, tool calling, multi-agent systems, Claude Code, Claude, OpenAI, Google Gemini, AWS Bedrock, Hugging Face, Ollama, llama.cpp.
-
-**RAG, search & big data:** RAG pipelines, Pinecone, ChromaDB, AstraDB, Elasticsearch, Weaviate, Neo4j, Hadoop, Apache Spark, PySpark, ELK Stack, Power BI.
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis.
-
-**Cloud & DevOps:** AWS EC2, Lambda, API Gateway, S3, CloudFront, VPC, IAM, SageMaker, RDS, CloudWatch, CloudTrail; Azure App Service, Front Door, Web Apps; Cloudflare R2 and CDN; Supabase, Docker, CI/CD, Git, GitHub Actions, Vercel.
-
-**Integrations & developer tools:** Resend, GetStream, Coda.io OAuth, Twilio IVR, ElevenLabs, Stripe, Postmark, Recall AI, Sentry, Mixpanel, VS Code, PyCharm, Jupyter Notebook.
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-22272e?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Celery-22272e?style=flat-square" alt="Celery" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-22272e?style=flat-square" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-22272e?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/NumPy-22272e?style=flat-square" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-22272e?style=flat-square" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-22272e?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-22272e?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/LangChain-22272e?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-22272e?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-22272e?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/MCP%20Servers-22272e?style=flat-square" alt="MCP Servers" />
+  <img src="https://img.shields.io/badge/Claude-22272e?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-22272e?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-22272e?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-22272e?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-22272e?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Pinecone-22272e?style=flat-square" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/ChromaDB-22272e?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Weaviate-22272e?style=flat-square" alt="Weaviate" />
+</p>
 
 ## GitHub stats
 
