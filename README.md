@@ -41,8 +41,8 @@ I build production-ready software across AI engineering and full-stack developme
   <br />
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,supabase,docker,linux,github,githubactions,git,vscode,vercel" alt="AWS, Azure, Google Cloud, Cloudflare, Supabase, Docker, Linux, GitHub, GitHub Actions, Git, Visual Studio Code, and Vercel icons" />
   <br />
-  <img src="https://cdn.simpleicons.org/apachehadoop" alt="Apache Hadoop" height="48" />
-  <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" height="48" />
+  <img src="https://cdn.simpleicons.org/apachehadoop" alt="Apache Hadoop" width="36" height="36" />
+  <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" width="36" height="36" />
 </p>
 
 **50+ skills from my résumé**
