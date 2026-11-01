@@ -40,11 +40,12 @@ I build production-ready software across AI engineering and full-stack developme
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniruddhasalve&amp;theme=tokyonight" alt="GitHub profile contribution summary" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniruddhasalve&amp;theme=tokyonight" alt="GitHub stats including total stars" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=aniruddhasalve&amp;theme=tokyonight" alt="GitHub contribution streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniruddhasalve&amp;theme=tokyonight" alt="GitHub statistics including total stars" width="48%" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniruddhasalve&amp;theme=tokyonight" alt="Languages across repositories" width="48%" height="200" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniruddhasalve&amp;theme=tokyonight" alt="Languages across repositories" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniruddhasalve&amp;theme=tokyonight" alt="Most-used language by commits" width="48%" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniruddhasalve&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Most productive coding times" width="48%" height="200" />
 </p>
 
 **Public repository stars: 8** (current count). The most-starred projects are [Dimensia](https://github.com/aniruddhasalve/dimensia) (2), [Healthcare Web App](https://github.com/aniruddhasalve/healthcare-web-app) (2), and [Simple Streamlit Calculator Demo](https://github.com/aniruddhasalve/simple-streamlit-calculator-demo) (2). Also see [diff-api](https://github.com/aniruddhasalve/diff-api) (1) and this profile repository (1).
