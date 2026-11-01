@@ -1,94 +1,61 @@
-# Hi there! 👋 I'm Aniruddha Salve
+# Hi, I'm Aniruddha Salve
 
-![Profile Views](https://komarev.com/ghpvc/?username=aniruddhasalve&style=flat-square&color=blue)
+**AI & Full-Stack Engineer | 3.5+ years of experience**
 
-## 🚀 About Me
+I build production-ready software across AI engineering and full-stack development, from system design and MVPs through deployment and iteration. My work includes LLM applications, retrieval-augmented generation (RAG), AI agents, SaaS products, APIs, and developer tools.
 
-I am an **AI Lead** with **3+ years of strong experience in full-stack engineering**, building mostly **SaaS-based applications** and AI-powered products.
+- Based in Pune, India
+- Currently focused on AI products, agentic systems, and reliable full-stack applications
+- Creator of [Dimensia](https://pypi.org/project/dimensia/) and [MeetMorph](https://www.meetmorph.com/)
 
-I work across **AI engineering, Natural Language Processing, Machine Learning, LLM applications, RAG systems, agent orchestration, backend architecture, and modern web development**. I enjoy taking products from architecture and MVP development through deployment, CI/CD, integrations, and production operations.
+## Featured work
 
-My main areas of interest include:
+- **[MeetMorph](https://www.meetmorph.com/)** — Turns meeting transcripts into structured product specifications and shareable working prototypes.
+- **[Dimensia](https://pypi.org/project/dimensia/)** — Python library for optimized vector retrieval in LLM and RAG pipelines.
+- **[Code Snippet Manager](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.code-snippet-manager)** — Create and manage code snippets from VS Code.
+- **[MetaHeader](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.metaheader)** — Generates standardized file headers across programming languages.
+- **[QuizWiz](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.quizwiz)** — Practice IT topics with self-quizzes in VS Code.
 
-- AI-powered SaaS products
-- Large Language Model applications
-- Retrieval-Augmented Generation (RAG)
-- Multi-agent and agentic workflows
-- Django, FastAPI, and Python backend systems
-- React and Next.js applications
-- Multi-tenant architectures and production APIs
-- Vector retrieval and semantic search
-- Docker, cloud deployments, and CI/CD
-- Developer tools and workflow automation
+## What I work with
 
-## 🧩 Selected Work
+**Languages:** Python, JavaScript, TypeScript, Java, C++  
+**Backend:** Django, FastAPI, Flask, REST APIs  
+**Frontend:** React, Next.js, Angular  
+**AI / ML:** LLMs, RAG, LangChain, LlamaIndex, agents, NLP, TensorFlow, PyTorch  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis, Neo4j  
+**Infrastructure:** Docker, AWS, GCP, Linux, CI/CD
 
-### MeetMorph
+## Research and publications
 
-[MeetMorph](https://www.meetmorph.com/) turns meeting transcripts from Meet, Zoom, or uploaded files into structured product specifications and working prototypes that teams can refine and share.
+- **[A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data Sources](https://arxiv.org/abs/2412.05838)** — Research on routing queries across heterogeneous data sources with specialized retrieval, reasoning, and generation agents. [Google Scholar](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-0229-9805)
+- **[Honeypot Analysis Using Big Data Technologies](https://www.ijsrd.com/articles/IJSRDV11I20035.pdf)** — Analysis of honeypot logs using big-data and security-monitoring techniques.
 
-### Dimensia
+## Highlights
 
-[Dimensia](https://pypi.org/project/dimensia/) is a Python library for optimized vector retrieval in LLM and RAG pipelines, with similarity search and embedding-friendly APIs for working with large document collections.
+- Maharashtra State Engineering Design Award (2023), second prize at the ISTE Students’ National Annual Convention.
+- First place in the TechGig Data Science Challenge.
+- Top 10 in HackerEarth’s “A Perfect Fit” Machine Learning Challenge.
+- Runner-up at the institute level in the Avishkar Research Competition (2022).
 
-## 💼 Professional Focus
+## GitHub projects
 
-- **AI leadership** – Driving AI product architecture, technical direction, and end-to-end delivery.
-- **Full-stack SaaS engineering** – Building scalable applications with Python, Django, FastAPI, React, Next.js, PostgreSQL, Supabase, and cloud services.
-- **AI applications** – Developing LLM apps, RAG pipelines, AI agents, multi-agent systems, web scraping workflows, and intelligent automation.
-- **Production engineering** – Working with Docker, AWS, GCP, CI/CD, observability, third-party integrations, and reliable deployment workflows.
-- **Product development** – Turning early ideas into MVPs, production systems, developer tools, and usable customer-facing products.
+**8 stars across my public, non-fork repositories** (checked November 2026). To make the star counts easy to see without relying on a third-party stats image:
 
-## 🧰 Open Source and Developer Tools
+- [Dimensia](https://github.com/aniruddhasalve/dimensia) — 2 stars
+- [Healthcare Web App](https://github.com/aniruddhasalve/healthcare-web-app) — 2 stars
+- [Simple Streamlit Calculator Demo](https://github.com/aniruddhasalve/simple-streamlit-calculator-demo) — 2 stars
+- [diff-api](https://github.com/aniruddhasalve/diff-api) — 1 star
+- [Profile README](https://github.com/aniruddhasalve/aniruddhasalve) — 1 star
 
-- **[Dimensia](https://pypi.org/project/dimensia/)** – Vector retrieval library for LLM and RAG workflows.
-- **[Code Snippet Manager](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.code-snippet-manager)** – Create, insert, and manage code snippets from the VS Code Command Palette.
-- **[MetaHeader](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.metaheader)** – Automatically insert standardized file headers across multiple programming languages.
-- **[QuizWiz](https://marketplace.visualstudio.com/items?itemName=AniruddhaSalve.quizwiz)** – Practice IT topics through self-quizzes inside VS Code.
+## Education
 
-## 📚 Research and Publications
+**Bachelor of Engineering in Computer Engineering** — Savitribai Phule Pune University, SVPM’s College of Engineering, Baramati (2019–2023)
 
-### A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data Sources
-
-A preprint on a collaborative multi-agent RAG framework that routes queries across heterogeneous data sources by separating retrieval, reasoning, and generation across specialized agents.
-
-- [Read on arXiv](https://arxiv.org/abs/2412.05838)
-- [Google Scholar](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en)
-- [ORCID](https://orcid.org/0009-0005-0229-9805)
-
-### Honeypot Analysis Using Big Data Technologies
-
-A study on large-scale honeypot log analysis using Hadoop, ELK, Spark, and forecasting techniques for intrusion-pattern analysis, alerting, and security monitoring workflows.
-
-- [Read the publication](https://www.ijsrd.com/articles/IJSRDV11I20035.pdf)
-
-## 🏆 Awards and Achievements
-
-- **Maharashtra State Engineering Design Award (2023)** – Second prize at the ISTE Students’ National Annual Convention for research on honeypots, big data, generative AI, and intrusion detection.
-- **Avishkar Research Competition (2022)** – Institute-level runner-up.
-- **1st place in the TechGig Data Science Challenge.**
-- **Top 10 in HackerEarth’s “A Perfect Fit” Machine Learning Challenge.**
-
-## 🎓 Education
-
-- **Bachelor of Engineering in Computer Engineering** – Savitribai Phule Pune University, SVPM’s College of Engineering, Baramati *(2019–2023)*
-
-## 🛠 Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,nextjs,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws,gcp)
-
-## 📊 GitHub Stats
-
-![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruddhasalve&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniruddhasalve&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhasalve&layout=compact&theme=tokyonight)
-
-## 🔗 Connect with Me
+## Connect
 
 - **Website:** [aniruddhasalve.me](https://aniruddhasalve.me/)
-- **LinkedIn:** [linkedin.com/in/aniruddha-salve-645854196](https://www.linkedin.com/in/aniruddha-salve-645854196/)
-- **GitHub:** [github.com/aniruddhasalve](https://github.com/aniruddhasalve)
+- **LinkedIn:** [Aniruddha Salve](https://www.linkedin.com/in/aniruddha-salve-645854196/)
 - **Google Scholar:** [View profile](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en)
 - **Email:** [salveaniruddha180@gmail.com](mailto:salveaniruddha180@gmail.com)
 
-✨ *Let's build something useful with AI, full-stack engineering, and thoughtful product development.*
+*Interested in building useful AI and full-stack products—feel free to reach out.*
