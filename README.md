@@ -35,13 +35,33 @@ I build production-ready software across AI engineering and full-stack developme
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,cpp,java,react,nextjs,js,angular,tensorflow,pytorch,mongodb,mysql,postgres,redis,neo4j,docker,linux,aws,azure,gcp" alt="Python, Django, Flask, FastAPI, C++, Java, React, Next.js, JavaScript, Angular, TensorFlow, PyTorch, MongoDB, MySQL, PostgreSQL, Redis, Neo4j, Docker, Linux, AWS, Azure, and Google Cloud icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,laravel,cpp,java,typescript,react,nextjs,angular,tailwind" alt="Python, Django, Flask, FastAPI, Laravel, C++, Java, TypeScript, React, Next.js, Angular, and Tailwind CSS icons" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,elasticsearch,mongodb,mysql,postgres,redis" alt="TensorFlow, PyTorch, scikit-learn, OpenCV, Elasticsearch, MongoDB, MySQL, PostgreSQL, and Redis icons" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,supabase,docker,linux,github,githubactions,git,vscode,vercel" alt="AWS, Azure, Google Cloud, Cloudflare, Supabase, Docker, Linux, GitHub, GitHub Actions, Git, Visual Studio Code, and Vercel icons" />
   <br />
   <img src="https://cdn.simpleicons.org/apachehadoop" alt="Apache Hadoop" height="48" />
   <img src="https://cdn.simpleicons.org/apachespark" alt="Apache Spark" height="48" />
 </p>
 
-**AI & ML:** LLMs, RAG, LangChain, LlamaIndex, agents, NLP, TensorFlow, PyTorch  ·  **Big data:** Hadoop, Apache Spark, PySpark  ·  **Backend:** Django, FastAPI, Flask, REST APIs  ·  **Frontend:** React, Next.js, Angular  ·  **Data:** PostgreSQL, MySQL, MongoDB, Redis, Neo4j  ·  **Cloud & DevOps:** AWS, Azure, GCP, Docker, Linux, CI/CD
+**50+ skills from my résumé**
+
+**Programming & foundations:** Python, Java, JavaScript, TypeScript, SQL, JSON, object-oriented programming, data structures and algorithms, REST APIs.
+
+**Backend & web:** Django, Flask, FastAPI, Celery, Laravel, OAuth 2.0, JWT, rate limiting, WebSockets, React, Next.js, React Native, Chrome Extensions (Manifest V3), Tailwind CSS.
+
+**AI, ML & data science:** Machine learning, deep learning, NLP, computer vision, generative AI, prompt engineering, LLMs, TensorFlow, PyTorch, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn.
+
+**Agentic AI & model platforms:** LangChain, LangGraph, LlamaIndex, LangSmith, Mem0, MCP servers, reasoning agents, tool calling, multi-agent systems, Claude Code, Claude, OpenAI, Google Gemini, AWS Bedrock, Hugging Face, Ollama, llama.cpp.
+
+**RAG, search & big data:** RAG pipelines, Pinecone, ChromaDB, AstraDB, Elasticsearch, Weaviate, Neo4j, Hadoop, Apache Spark, PySpark, ELK Stack, Power BI.
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis.
+
+**Cloud & DevOps:** AWS EC2, Lambda, API Gateway, S3, CloudFront, VPC, IAM, SageMaker, RDS, CloudWatch, CloudTrail; Azure App Service, Front Door, Web Apps; Cloudflare R2 and CDN; Supabase, Docker, CI/CD, Git, GitHub Actions, Vercel.
+
+**Integrations & developer tools:** Resend, GetStream, Coda.io OAuth, Twilio IVR, ElevenLabs, Stripe, Postmark, Recall AI, Sentry, Mixpanel, VS Code, PyCharm, Jupyter Notebook.
 
 ## GitHub stats
 
