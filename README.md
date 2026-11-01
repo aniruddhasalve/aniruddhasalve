@@ -8,7 +8,13 @@
 
 I build production-ready software across AI engineering and full-stack development—from system design and MVPs through deployment and iteration. My work includes LLM applications, RAG, AI agents, SaaS products, APIs, and developer tools.
 
-[Website](https://aniruddhasalve.me) · [LinkedIn](https://www.linkedin.com/in/aniruddha-salve-645854196/) · [Google Scholar](https://scholar.google.com/citations?user=uNlt460AAAAJ&hl=en) · [Email](mailto:salveaniruddha180@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aniruddha-salve-645854196/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://aniruddhasalve.me"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=uNlt460AAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar profile" /></a>
+  <a href="https://github.com/aniruddhasalve"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:salveaniruddha180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Aniruddha" /></a>
+</p>
 
 </div>
 
@@ -76,7 +82,6 @@ I build production-ready software across AI engineering and full-stack developme
 
 <div align="center">
 
-**Let's build something useful with AI and full-stack engineering.**  
-[aniruddhasalve.me](https://aniruddhasalve.me) · [salveaniruddha180@gmail.com](mailto:salveaniruddha180@gmail.com)
+**Let's build something useful with AI and full-stack engineering.**
 
 </div>
