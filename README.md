@@ -50,6 +50,10 @@ I build production-ready software across AI engineering and full-stack developme
 
 🔒 **Building in private:** 54 private repositories. I keep their names and details private—but if you’re curious about what I’m working on, [let’s connect](mailto:salveaniruddha180@gmail.com).
 
+📈 **Private activity:** If private contributions are enabled on my GitHub profile, the contribution graph shows only anonymized daily counts—not repository names or details. [How GitHub handles private contributions](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference#who-can-see-your-contributions-and-achievements).
+
+📝 **Public gists:** 9 (count only; no gist content is embedded here).
+
 **Public repository stars: 8** (current count). The most-starred projects are [Dimensia](https://github.com/aniruddhasalve/dimensia) (2), [Healthcare Web App](https://github.com/aniruddhasalve/healthcare-web-app) (2), and [Simple Streamlit Calculator Demo](https://github.com/aniruddhasalve/simple-streamlit-calculator-demo) (2). Also see [diff-api](https://github.com/aniruddhasalve/diff-api) (1) and this profile repository (1).
 
 ## Research and publications
